@@ -1,4 +1,4 @@
-Partidos Jugados,Partidos Ganados,Partidos Empatados,Partidos Perdidos,Puntos,Goles a Favor,Goles en Contra,Diferencia de Goles,Clase,equipo
+pj,pg,pe,pp,puntos,gf,ge,dg,Clase,equipo
 18,12,8,0,52,21,19,2,4,0
 29,28,4,24,20,32,18,14,2,1
 27,17,6,8,39,24,12,12,3,2
